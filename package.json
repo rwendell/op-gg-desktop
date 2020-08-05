@@ -1,0 +1,15 @@
+{
+  "name": "op.gg-desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "rwendell",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^9.1.2",
+    "jquery": "^3.5.1"
+  }
+}
